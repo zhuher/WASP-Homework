@@ -1,3 +1,6 @@
 [submodule "WASP-First"]
 	path = WASP-First
 	url = https://github.com/zhuher/WASP-First
+[submodule "beepbeep"]
+	path = beepbeep
+	url = https://github.com/zhuher/beepbeep
